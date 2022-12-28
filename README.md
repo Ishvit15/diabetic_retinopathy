@@ -7,7 +7,7 @@
   <h3 align="center">Diabetes-prediction</h3>
 
   <p align="center">
-    In this i've tried to predict the probability of a person having diabetes based on some data fields...    
+    In this i've tried to predict the probability of a person having diabetic retnopathy based on some data fields...    
   </p>
 </p>
 
