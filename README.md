@@ -54,7 +54,7 @@ Version python 3.8 <
  
 1. Clone the repo
 ```
-git clone https://github.com/github_Abhayparashar31/Diabetes-prediction.git
+git clone https://github.com/Ishvit15/diabetic_retnopathy
 ```
 2. Install Python Libraries
 ```
